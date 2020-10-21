@@ -2,7 +2,7 @@
 category: 'blog'
 cover: './cover.jpg'
 title: 'Menginstall Program Windows Dengan Winstall'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'Winstall mirip dengan Ninite, tetapi berisi program Windows yang jauh lebih luas.'
 date: '2020-10-21'
 tags: ['winstall', 'microsoft', 'windows']
 published: true
