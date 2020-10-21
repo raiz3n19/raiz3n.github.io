@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Saardenese.`,
+    title: `Raiz3N.WTF`,
     pathPrefix: "/",
     description: `Welcome to my personal website! Hope u enjoy here.`,
     author: `ftrhadtya_`
@@ -42,7 +42,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `gatsby-personal-website-starter`,
-        short_name: `starter`,
+        short_name: `Raiz3N.WTF`,
         start_url: ``,
         background_color: `#81e6d9`,
         theme_color: `#81e6d9`,
