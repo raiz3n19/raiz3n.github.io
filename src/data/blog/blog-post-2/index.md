@@ -1,8 +1,8 @@
 ---
 category: 'blog'
-cover: './cover.jpg'
+cover: './images (5).jpeg'
 title: 'Memulai Project Website Static Dengan GatsbyJS'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'Gatsbyjs adalah static site generator dengan teknologi terkini: React, Webpack, GraphQL, modern JavaScript dan lain sebagainya.'
 date: '2019-12-24'
 tags: ['JavaScript', 'React', 'GatsbyJS']
 published: false
