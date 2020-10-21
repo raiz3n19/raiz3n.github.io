@@ -41,11 +41,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-personal-website-starter`,
+        name: `Hi There! Welcome to Raiz3N.WTF`,
         short_name: `Raiz3N.WTF`,
         start_url: ``,
-        background_color: `#81e6d9`,
-        theme_color: `#81e6d9`,
+        background_color: `#9a91c4`,
+        theme_color: `#9a91c4`,
         display: `minimal-ui`,
         icon: `src/assets/images/new-icon.png`
       }
