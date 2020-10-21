@@ -1,27 +1,20 @@
 ---
 category: 'blog'
 cover: './cover.jpg'
-title: 'Blog Post 1'
+title: 'Menginstall Program Windows Dengan Winstall'
 description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
-date: '2019-11-13'
-tags: ['Photography']
+date: '2020-10-21'
+tags: ['winstall', 'microsoft', 'windows']
 published: true
 ---
 
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat._.
+Microsoft akan segera menambahkan pengelola paket Windows asli ke Windows 10, tetapi itu terbatas pada antarmuka, bukan GUI yang ramah pengguna. Meskipun banyak yang akan senang karena hanya dapat menginstal program dari baris perintah, Menciak pengembang Mehedi Hassan memiliki winstall dibuat – aplikasi web yang digunakan Microsoft Package Manager untuk membuat paket aplikasi Anda untuk sebagian besar menginstal semua aplikasi Windows favorit Kalian.
 
-**Sed ut perspiciatis unde omnis**
+Ini sangat ideal untuk pengembang yang secara teratur mematikan komputer, pengguna yang ingin memformat Windows setelah setiap pembaruan besar, atau hanya orang lain yang ingin segera menyiapkan mesin baru. Situs winstall memungkinkan Anda untuk memilih dari paket yang sudah dibuat sebelumnya, atau membuat dan membagikan daftar aplikasi Kalian sendiri. Ini bisa berupa rangkaian aplikasi permainan yang mencakup Steam, Discord, Twitch, Origin, Uplay dan banyak lagi, atau daftar aplikasi produktivitas seperti Zoom, Slack dan Microsoft Teams.
 
-![Aliquet vel mollis nec](./cover.jpg)
+Winstall mirip dengan Ninite, tetapi berisi program Windows yang jauh lebih luas, berkat fakta bahwa ia menggunakan Windows Package Manager milik Microsoft. Microsoft sedang mengerjakan dan mengelola daftar aplikasi ini dari sumber terverifikasi, dan manajer paket pada akhirnya akan dibangun ke dalam Windows. Untuk saat ini, Anda perlu mendaftar di akses versi pratinjau di sini untuk membuatnya berhasil.
 
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+Setelah manajer paket Microsoft tertanam sepenuhnya di Windows, Anda tidak perlu menginstal apa pun di komputer untuk menjalankan winstall, dan Anda bahkan tidak perlu mengunduh aplikasi. Winstall menghasilkan skrip yang dapat disalin dan ditempelkan ke dalam prompt perintah Windows, atau Anda dapat mengunduh skrip kelelawar atau PowerShell dan menjalankannya di komputer baru.
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
-
-**Sconsectetur, adipisci velits**
-
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
-
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
-
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+**Apa itu Ninite?
+Ninite adalah salah satu program Windows favorit kami untuk menginstal banyak program yang diperlukan dengan cepat, tetapi manajer paket Microsoft hanya menawarkan lebih dari 900 program yang jauh lebih luas. Dalam kombinasi dengan winstall, itu mulai lebih dekat ke Windows Store yang selalu saya inginkan dengan berbagai macam aplikasi desktop dan cara mudah untuk menginstalnya.
