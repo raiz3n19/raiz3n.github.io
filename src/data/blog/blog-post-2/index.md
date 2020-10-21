@@ -3,9 +3,9 @@ category: 'blog'
 cover: './images (5).jpeg'
 title: 'Memulai Project Website Static Dengan GatsbyJS'
 description: 'Gatsbyjs adalah static site generator dengan teknologi terkini: React, Webpack, GraphQL, modern JavaScript dan lain sebagainya.'
-date: '2019-12-24'
-tags: ['JavaScript', 'React', 'GatsbyJS']
-published: false
+date: '2020-10-21'
+tags: ['JavaScript', 'React', 'GatsbyJS', 'NodeJS']
+published: true
 ---
 
 Untuk memulai membuat website static menggunakan _gatsby.js_ saya akan memberikan bahan-bahan apa saja yang harus disediakan.
