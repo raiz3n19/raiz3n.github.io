@@ -1,6 +1,6 @@
 ---
 category: 'blog'
-cover: './cover.jpg'
+cover: './winstall.png'
 title: 'Menginstall Program Windows Dengan Winstall'
 description: 'Winstall mirip dengan Ninite, tetapi berisi program Windows yang jauh lebih luas.'
 date: '2020-10-21'
