@@ -1,25 +1,52 @@
 ---
 category: 'blog'
 cover: './cover.jpg'
-title: 'Blog Post 2'
+title: 'Memulai Project Website Static Dengan GatsbyJS'
 description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
 date: '2019-12-24'
-tags: ['JavaScript', 'React']
-published: true
+tags: ['JavaScript', 'React', 'GatsbyJS']
+published: false
 ---
 
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat._.
+Untuk memulai membuat website static menggunakan _gatsby.js_ saya akan memberikan bahan-bahan apa saja yang harus disediakan.
 
-**Sed ut perspiciatis unde omnis**
+Pertama kalian harus menginstall *NodeJS* dan *Git* terlebih dahulu.
 
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+Untuk menginstall *Git* dan *NodeJS* kalian bisa download di website resmi nya.
 
-![Aliquet vel mollis nec](./cover.jpg)
+Setelah 2 bahan tersebut berhasil terinstal, Silahkan kalian cek versinya terlebih dahulu.
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+Untuk mengetahui versi dari *Git* kalian buka terlebih dahulu *CMD* dan tuliskan 
 
-**Sliquam quaerat voluptatems**
+```
+git --version
+```
+Jika instalasi sukses maka akan keluar versi dari *Git* nya.
 
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+Untuk mengetahu versi dari *NodeJS* kalian cukup mengetikan
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+```
+node -v
+```
+
+dan jangan lupa untuk mengecek versi *NPM* nya juga, dengan mengetikan
+
+```
+npm -v
+```
+## GatsbyJS
+
+Langkah selanjutnya kita akan melakukan instalasi GatsbyJS dengan cara mengetikan
+
+```
+npm i -g gatsby-cli
+```
+tunggu hingga proses instalasi selesai
+
+dan selamat GatsbyJs sudah terinstall di perangkatmu!
+
+di next post saya akan memberikan tutorial tentang *bagaimana cara membuat website static dengan GatsbyJS*
+
+## Kesimpulan
+
+*Gatsbyjs adalah static site generator dengan teknologi terkini: React, Webpack, GraphQL, modern JavaScript dan lain sebagainya. Gatsbyjs sangat menarik karena dengan Gatsbyjs kita dapat membuat static site yang SPA atau single page application dan juga sudah support server side rendering untuk kebutuhan SEO.*
